@@ -17,4 +17,5 @@ def set_seed(new_seed):
     this module.
     """
 
+    global _SEED
     _SEED = new_seed
